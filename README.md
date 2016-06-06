@@ -75,6 +75,7 @@ This is mainly a collaboration among friends:
 
 * [@zikani03](https://github.com/zikani03)
 * [@cillacodes](https://github.com/cillacodes)
+* [@Blessings9](https://github.com/Blessings9)
 
 ## LICENSE
 
