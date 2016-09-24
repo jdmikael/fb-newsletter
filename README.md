@@ -43,11 +43,11 @@ We don't know yet. Maybe through some machine learning algorithms ;)
 
 Things we may want to cover for development:
 
-* Ruby version >= 2.0.0
+* Ruby version >= 2.2.2
 
 * System dependencies
 
-    - Rails 4.2.5
+    - Rails '5.0.0.1'
 
 * Configuration
 
